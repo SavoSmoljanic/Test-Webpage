@@ -1,4 +1,5 @@
 .heading {
+  color: #ffffff;
   font-weight: 700;
   font-size: 74px;
   line-height: 84px;
@@ -9,6 +10,7 @@
   height: 168px;
 }
 .subHeading {
+  color: #ffffff;
   font-weight: 400;
   font-size: 28px;
   line-height: 40px;
