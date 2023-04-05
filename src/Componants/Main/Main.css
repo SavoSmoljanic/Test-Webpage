@@ -1,0 +1,37 @@
+.featureHead {
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 27px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  letter-spacing: 0.2px;
+  text-align: center;
+}
+.featureSub {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-bottom: 97.01px;
+}
+.featureRow {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 76px;
+  margin-bottom: 132px;
+}
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+}
+p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.2px;
+}

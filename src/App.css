@@ -1,7 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: 1777px;
+  height: 8724.3px;
+  background: #ffffff;
+}
 .bgImage {
   width: 1775.7px;
   height: 927px;
-  position: absolute;
+
   background-image: url(/public/Images/background.png);
   margin-bottom: 115px;
 }
