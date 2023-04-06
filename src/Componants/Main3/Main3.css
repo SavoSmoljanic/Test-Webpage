@@ -1,0 +1,24 @@
+.Main3Content {
+  display: flex;
+  align-items: center;
+  gap: 113px;
+  margin-top: 442.5px;
+}
+
+.emailInput {
+  width: 273px;
+  height: 54px;
+  border-radius: 39px;
+  padding: 19px, 39px, 19px, 39px;
+}
+::placeholder {
+  color: #18171d;
+  padding-left: 39px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+.inputButton {
+  display: flex;
+  gap: 12px;
+}

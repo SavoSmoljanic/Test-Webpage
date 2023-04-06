@@ -3,7 +3,8 @@
   flex-direction: column;
   align-items: center;
   position: relative;
-  width: 1777px;
+
+  min-width: 1777px;
   height: 8724.3px;
   background: #ffffff;
 }
