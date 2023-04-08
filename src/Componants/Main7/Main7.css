@@ -1,0 +1,81 @@
+.Main7Header {
+  text-align: center;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  letter-spacing: 0.2px;
+}
+.Main7Subheader {
+  text-align: center;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0.2px;
+}
+.Main7ContentContainer {
+  display: flex;
+  justify-content: center;
+  gap: 63.84px;
+}
+.contactCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 453px;
+  height: 669px;
+  border: 1px solid #dddddd;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+  border-radius: 20px;
+}
+.cardHeader {
+  padding-top: 52px;
+  padding-bottom: 45px;
+}
+.nameInput {
+  width: 353px;
+  height: 54px;
+  border-radius: 39px;
+  margin-bottom: 45px;
+}
+.emailInputMain7 {
+  width: 353px;
+  height: 54px;
+  border-radius: 39px;
+  margin-bottom: 45px;
+}
+
+.messageInput {
+  width: 353px;
+  height: 193px;
+  margin-bottom: 45px;
+}
+.Main7ButtonContainer {
+  width: 353px;
+  padding-right: 258px;
+  padding-left: 50px;
+  padding-bottom: 52px;
+}
+.Main7CardButton {
+  width: 145px;
+  height: 56px;
+  border-radius: 35px;
+  background: #2091f9;
+}
+.contactInfoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 35px;
+  padding-bottom: 70px;
+}
+.mapImg {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 74px;
+}
+.companyLogosContainer {
+  display: flex;
+  gap: 32.33px;
+}

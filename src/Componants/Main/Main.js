@@ -9,7 +9,7 @@ export function Main() {
         Most calendars are designed for teams. Slate is designed for freelancers
       </h4>
       <div className="featureRow">
-        <div className="feature1">
+        <div className="Main1Feature1">
           <img src="Images/vector2.png" alt="vector" />
           <h3>OpenType features Variable fonts</h3>
           <p>
@@ -17,7 +17,7 @@ export function Main() {
             your financial goal.
           </p>
         </div>
-        <div className="feature2">
+        <div className="Main1Feature2">
           <img src="Images/vector1.png" alt="vector" />
           <h3>Design with real data</h3>
           <p>
@@ -25,7 +25,7 @@ export function Main() {
             your financial goal.
           </p>
         </div>
-        <div className="feature3">
+        <div className="Main1Feature3">
           <img src="Images/vector2.png" alt="vector" />
           <h3>Fastest way to take action</h3>
           <p>
