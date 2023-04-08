@@ -1,0 +1,121 @@
+.Main6Container {
+  margin: 0;
+  padding-top: 110px;
+  width: 100%;
+  background: #252b42;
+}
+.headerContainer {
+  text-align: center;
+}
+.Main6Header {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  letter-spacing: 0.2px;
+  color: white;
+}
+.Main6Subheader {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 0.2px;
+  color: white;
+}
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+.card1Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 43px;
+  text-align: center;
+  height: 607px;
+  width: 335px;
+  height: 607px;
+  border-radius: 10px;
+  background: white;
+}
+.c1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 84px;
+}
+.c1Heading {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+}
+.c1Subheading {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+}
+.c1Price {
+  font-weight: 700;
+  font-size: 74px;
+  line-height: 84px;
+}
+.c1PriceContainer {
+  text-align: left;
+  align-items: center;
+}
+.feature1 {
+  margin-bottom: 20px;
+}
+.featureLast {
+  margin-bottom: 40px;
+}
+.card2Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 80px;
+  text-align: center;
+  width: 335px;
+  height: 693px;
+  border-radius: 10px;
+  background: #2091f9;
+}
+.c2Heading {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+}
+.c2Subheading {
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+}
+.c2 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 84px;
+  margin-bottom: 28.5px;
+}
+.c2Price {
+  font-weight: 700;
+  font-size: 74px;
+  line-height: 84px;
+}
+.feature2 {
+  color: white;
+  margin-bottom: 20px;
+}
+.featureLast {
+  color: white;
+  margin-bottom: 40px;
+}

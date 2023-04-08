@@ -14,7 +14,9 @@ export function Main4() {
       <div className="compainesImage">
         <img src="./Images/companiesImage.png" alt="companies" />
       </div>
-      <button>Try For Free</button>
+      <div className="tryforfreebtn">
+        <button className="buttonLargeText">Try For Free</button>
+      </div>
     </div>
   );
 }

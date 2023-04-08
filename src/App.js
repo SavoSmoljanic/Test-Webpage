@@ -6,6 +6,8 @@ import { Video } from "./Componants/Video/Video";
 import { Main2 } from "./Componants/Main2/Main2";
 import { Main3 } from "./Componants/Main3/Main3";
 import { Main4 } from "./Componants/Main4/Main4";
+import { Main5 } from "./Componants/Main5/Main5";
+import { Main6 } from "./Componants/Main6/Main6";
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
       <Main2 />
       <Main3 />
       <Main4 />
+      <Main5 />
+      <Main6 />
     </div>
   );
 }
