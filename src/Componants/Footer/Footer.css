@@ -1,0 +1,48 @@
+.footerContainer {
+  background-color: #252b42;
+  width: 1777px;
+  height: 567px;
+  margin-top: 102px;
+  display: flex;
+  align-items: center;
+  gap: 191.29px;
+}
+.rowsContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 133px;
+  padding-left: 393px;
+}
+.rowsContainer p {
+  color: white;
+}
+.rowsContainer h3 {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+}
+.footerInfoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footerLocationInfo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15.66px;
+}
+.footerPhoneInfo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 17.29px;
+  padding-bottom: 44.48px;
+}
+.footerCompanyLogos {
+  display: flex;
+  gap: 32.33px;
+}

@@ -9,6 +9,7 @@ import { Main4 } from "./Componants/Main4/Main4";
 import { Main5 } from "./Componants/Main5/Main5";
 import { Main6 } from "./Componants/Main6/Main6";
 import { Main7 } from "./Componants/Main7/Main7";
+import { Footer } from "./Componants/Footer/Footer";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <Main5 />
       <Main6 />
       <Main7 />
+      <Footer />
     </div>
   );
 }
